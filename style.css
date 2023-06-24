@@ -36,3 +36,14 @@ body {
 #icon2 a {
     text-align: center;
 }
+#bar {
+    color: white;
+    text-decoration: none;
+    width: 70%;
+    background-color: black;
+}
+#bar a {
+    color: white;
+text-decoration: none;
+font-family: sans-serif;
+}
