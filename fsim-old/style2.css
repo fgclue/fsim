@@ -1,0 +1,36 @@
+body {  
+    background-color: white;
+    margin: 0;
+}
+#icon {
+    display: inline-block;
+    color: white;
+    font-family: sans-serif;
+}
+#icon a {
+    text-align: center;
+}
+#menu {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    width: 100%;
+}
+#url {
+    display: flex;
+}
+
+
+#cpc {
+    width: 30%;
+}
+#site {
+    text-align: center;
+    font-family: sans-serif;
+}
+#download {
+    background-color: rgb(10, 72, 207);
+    border: 1px solid white;
+    border-radius: 50px;
+    color: white;
+}
